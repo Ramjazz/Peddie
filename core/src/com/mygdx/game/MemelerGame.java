@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class MemelerGame extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
+	Texture wow;
 	
 	@Override
 	public void create () {
